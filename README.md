@@ -6,6 +6,14 @@ A Chrome extension that splits your browser into **desktop view on the left** an
 ![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+<p align="center" style="margin-top:16px">
+  <a href="https://github.com/zhisanhang-droid/amz-split-view/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/⬇%EF%B8%8F_Download_Extension_ZIP-FF9900?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Download Extension ZIP">
+  </a>
+</p>
+
+> **Quick install:** Download ZIP → unzip → open `chrome://extensions/` → enable Developer mode → Load unpacked → select the folder.
+
 ---
 
 ## What it does
